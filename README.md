@@ -2,7 +2,7 @@ Solution for the “Unlocking Potential for Elite Training Programs” competiti
 
 **Team**:
 
-Kavya: kv-22
+Kavya: [kv-22](https://github.com/kv-22)
 
-Joud: Joud73
+Joud: [Joud73](https://github.com/Joud73)
 
